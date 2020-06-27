@@ -1,0 +1,36 @@
+2020-06-21 00:58:59.593  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Starting SpringBootLoggingwithVariousAdaptersApplication on CEBS-LPT-31 with PID 10828 (C:\Users\Anuj.Singh\Documents\workspace-sts-3.9.11.RELEASE\SpringBootLoggingwithVariousAdapters\target\classes started by Anuj.Singh in C:\Users\Anuj.Singh\Documents\workspace-sts-3.9.11.RELEASE\SpringBootLoggingwithVariousAdapters)
+2020-06-21 00:58:59.595  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : No active profile set, falling back to default profiles: default
+2020-06-21 00:58:59.627  INFO CEBS-LPT-31 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-21 00:58:59.978  INFO CEBS-LPT-31 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-21 00:58:59.990  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Started SpringBootLoggingwithVariousAdaptersApplication in 0.605 seconds (JVM running for 1.476)
+2020-06-21 00:58:59.992  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Info log
+2020-06-21 00:58:59.992  WARN CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Hey, This is a warning!
+2020-06-21 00:58:59.992 ERROR CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Oops! We have an Error. OK
+2020-06-21 00:58:59.992 FATAL CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Damn! Fatal error. Please fix me.
+2020-06-21 01:00:43.604  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Starting SpringBootLoggingwithVariousAdaptersApplication on CEBS-LPT-31 with PID 13064 (C:\Users\Anuj.Singh\Documents\workspace-sts-3.9.11.RELEASE\SpringBootLoggingwithVariousAdapters\target\classes started by Anuj.Singh in C:\Users\Anuj.Singh\Documents\workspace-sts-3.9.11.RELEASE\SpringBootLoggingwithVariousAdapters)
+2020-06-21 01:00:43.608  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : No active profile set, falling back to default profiles: default
+2020-06-21 01:00:43.636  INFO CEBS-LPT-31 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-21 01:00:43.980  INFO CEBS-LPT-31 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-21 01:00:43.993  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Started SpringBootLoggingwithVariousAdaptersApplication in 0.59 seconds (JVM running for 2.353)
+2020-06-21 01:00:43.994  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Info log
+2020-06-21 01:00:43.994  WARN CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Hey, This is a warning!
+2020-06-21 01:00:43.994 ERROR CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Oops! We have an Error. OK
+2020-06-21 01:00:43.994 FATAL CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Damn! Fatal error. Please fix me.
+2020-06-21 01:05:19.682  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Starting SpringBootLoggingwithVariousAdaptersApplication on CEBS-LPT-31 with PID 4748 (C:\Users\Anuj.Singh\Documents\workspace-sts-3.9.11.RELEASE\SpringBootLoggingwithVariousAdapters\target\classes started by Anuj.Singh in C:\Users\Anuj.Singh\Documents\workspace-sts-3.9.11.RELEASE\SpringBootLoggingwithVariousAdapters)
+2020-06-21 01:05:19.685  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : No active profile set, falling back to default profiles: default
+2020-06-21 01:05:19.724  INFO CEBS-LPT-31 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-21 01:05:20.063  INFO CEBS-LPT-31 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-21 01:05:20.076  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Started SpringBootLoggingwithVariousAdaptersApplication in 0.596 seconds (JVM running for 1.501)
+2020-06-21 01:05:20.077  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Info log
+2020-06-21 01:05:20.077  WARN CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Hey, This is a warning!
+2020-06-21 01:05:20.078 ERROR CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Oops! We have an Error. OK
+2020-06-21 01:05:20.078 FATAL CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Damn! Fatal error. Please fix me.
+2020-06-21 01:06:00.926  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Starting SpringBootLoggingwithVariousAdaptersApplication on CEBS-LPT-31 with PID 11356 (C:\Users\Anuj.Singh\Documents\workspace-sts-3.9.11.RELEASE\SpringBootLoggingwithVariousAdapters\target\classes started by Anuj.Singh in C:\Users\Anuj.Singh\Documents\workspace-sts-3.9.11.RELEASE\SpringBootLoggingwithVariousAdapters)
+2020-06-21 01:06:00.929  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : No active profile set, falling back to default profiles: default
+2020-06-21 01:06:00.969  INFO CEBS-LPT-31 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-21 01:06:01.313  INFO CEBS-LPT-31 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-21 01:06:01.326  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Started SpringBootLoggingwithVariousAdaptersApplication in 0.608 seconds (JVM running for 1.494)
+2020-06-21 01:06:01.328  INFO CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Info log
+2020-06-21 01:06:01.328  WARN CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Hey, This is a warning!
+2020-06-21 01:06:01.328 ERROR CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Oops! We have an Error. OK
+2020-06-21 01:06:01.328 FATAL CEBS-LPT-31 --- [  restartedMain] ootLoggingwithVariousAdaptersApplication : Damn! Fatal error. Please fix me.
